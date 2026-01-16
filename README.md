@@ -28,7 +28,7 @@ conception d’interfaces graphiques.
 
 
 
-<img width="950" height="528" alt="image" src="https://github.com/user-attachments/assets/bdd6e425-6e2a-45fa-8d45-9bf3d820b98b" />
+<img width="948" height="530" alt="image" src="https://github.com/user-attachments/assets/9e41187a-183c-4fd9-986f-078e3c87560b" />
 
 Guide d'utilisation:
 
