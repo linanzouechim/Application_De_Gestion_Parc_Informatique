@@ -1,31 +1,44 @@
 # Application_De_Gestion_Parc_Informatique
 
-🖥️ Gestion de parc informatique
-📌 Description
+ Gestion de parc informatique
+ Description
 
 Cette application de gestion de parc informatique permet d’administrer des postes informatiques au sein d’une organisation.
 Elle a été développée en Python, avec une interface graphique PyQt6 et une base de données SQLite.
 
-Le projet s’inscrit dans le cadre d’un travail académique visant à mettre en pratique les concepts suivants :
+Le projet s’inscrit dans le cadre de notre travail académique visant à mettre en pratique les concepts suivants :
 
 programmation Python,
 
-bases de données relationnelles,
+bases de données ,
 
-opérations CRUD (Create, Read, Update, Delete),
+opérations CRUD ,
 
 conception d’interfaces graphiques.
 
-🎯 Fonctionnalités
+ Fonctionnalités:
 
-✔️ Ajout d’un poste informatique
-✔️ Suppression d’un poste existant
-✔️ Mise à jour des informations d’un poste
-✔️ Affichage dynamique des postes dans un tableau
-✔️ Sélection directe d’un poste via l’interface
-✔️ Gestion des erreurs (clé primaire, doublons, champs invalides)
+- Ajout d’un poste informatique
+- Suppression d’un poste existant
+- Mise à jour des informations d’un poste
+- Affichage dynamique des postes dans un tableau
+- Sélection directe d’un poste via l’interface
+- Gestion des erreurs (clé primaire, doublons, champs invalides)
 
 
 
 
 <img width="950" height="528" alt="image" src="https://github.com/user-attachments/assets/bdd6e425-6e2a-45fa-8d45-9bf3d820b98b" />
+
+Guide d'utilisation:
+
+
++ Pour modifier un champ, il faut cliquer sur le champ qu'on souhaite modifier, ensuite saisir la nouvelle valeur , puis cliquer sur le bouton Modifier pour enregistrer la modification .
+
++ Pour supprimer un poste, il faut sélectionner sa MAC adresse, ensuite cliquer sur le bouton « Supprimer ».
+
+Attetion : Il est impossible insérer un poste dont l'adresse MAC figure déjà dans la base de données.
+
+<img width="948" height="533" alt="image" src="https://github.com/user-attachments/assets/4eb4d76c-76b3-4286-9c1e-a3ffa89a712f" />
+
+
