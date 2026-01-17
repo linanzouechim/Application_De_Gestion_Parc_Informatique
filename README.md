@@ -37,7 +37,7 @@ Guide d'utilisation:
 
 + Pour supprimer un poste, il faut sélectionner sa MAC adresse, ensuite cliquer sur le bouton « Supprimer ».
 
-Attetion : Il est impossible insérer un poste dont l'adresse MAC figure déjà dans la base de données.
+Attetion : Il est impossible d'insérer un poste dont l'adresse MAC figure déjà dans la base de données.
 
 <img width="948" height="533" alt="image" src="https://github.com/user-attachments/assets/4eb4d76c-76b3-4286-9c1e-a3ffa89a712f" />
 
